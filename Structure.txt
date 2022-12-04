@@ -1,0 +1,11 @@
+Checklist's Structure
+
+Build:
+Environment:
+
+Test date:
+Tester:
+Test Type:
+Checking:
+Result:
+Assigned to:
