@@ -30,6 +30,8 @@ SELECT employeeNumber, lastName, email, extension from classicmodels.employees;
 
  8. Вывести пользователей где extension -   'x101'
 SELECT firstName, extension from classicmodels.employees where extension = 'x101';
+![7g](https://user-images.githubusercontent.com/117518577/214497626-250d8e1d-0d30-405e-9976-ecbc4b4a788c.jpg)
+
  9. Вывести пользователей у которых reportsTo равен 1102
 SELECT firstName, reportsTo from classicmodels.employees where reportsTo = '1102';
 ![a15bce9b25](https://user-images.githubusercontent.com/117518577/214494138-207e9446-9b5d-4c72-b56e-65969e1636ba.jpg)
